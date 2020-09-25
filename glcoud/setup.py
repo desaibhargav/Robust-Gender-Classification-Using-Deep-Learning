@@ -1,7 +1,7 @@
 from setuptools import setup
 from setuptools import find_packages
 
-REQUIRED_PACKAGES = ['tensorflow-gpu==1.10.0', 'Keras' ]
+REQUIRED_PACKAGES = ['tensorflow-gpu==1.15.4', 'Keras' ]
 
 setup(name='trainer',
       version='1.0',
